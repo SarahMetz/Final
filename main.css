@@ -77,7 +77,7 @@ border: 2px solid black;
 border-radius: 2rem;
 margin-bottom: .2rem;
 margin-top: .2rem;
-padding: .5rem;
+padding: 1rem 1.5rem;
 background-color: azure;
  }
 
@@ -90,7 +90,7 @@ background-color: azure;
 border-radius: 2rem;
 border: 2px solid black;
 margin-bottom: .2rem;
-padding: .5rem;
+padding: 1rem 1.5rem;
 background-color: azure;
  }
 
@@ -103,7 +103,7 @@ background-color: azure;
 border-radius: 2rem;
 border: 2px solid black;
 margin-bottom: .2rem;
-padding: .5rem;
+padding: 1rem 1.5rem;
 background-color: azure;
 }
 
@@ -121,9 +121,8 @@ background-color: azure;
 }
 
 figcaption {
-  font-size: 75%;
+  font-size: 115%;
   color: black;
-  text-shadow: 1px 1px 15px black;
   font-family: cursive;
 }
 
@@ -131,4 +130,5 @@ img {
   border: 2px solid black;
   border-radius: 9rem;
   box-shadow: 2px 5px 5px black;
+  max-width: 100%;
 }
