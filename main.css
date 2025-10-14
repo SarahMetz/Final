@@ -84,6 +84,7 @@ background-color: azure;
  .topbox h2 {
   text-align: center;
   margin-bottom: 1rem;
+  color: rgb(203, 72, 72);
  }
 
 .middlebox {
@@ -97,6 +98,7 @@ background-color: azure;
   .middlebox h2 {
   text-align: center;
   margin-bottom: 1rem;
+  color: rgb(203, 72, 72);
  }
 
 .bottombox {
@@ -110,6 +112,7 @@ background-color: azure;
  .bottombox h2 {
   text-align: center;
   margin-bottom: 1rem;
+  color: rgb(203, 72, 72);
  }
 
 .left {
@@ -124,6 +127,7 @@ figcaption {
   font-size: 115%;
   color: black;
   font-family: cursive;
+  color: rgb(203, 72, 72);
 }
 
 img {
